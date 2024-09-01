@@ -32,15 +32,15 @@ soldeer 2 jumperwires (liefst duidelijk verschillende stroom gerelateerde kleure
 ### stap 6
 monteer de wielen samen de wheelmounts op de plastic basisplaat.\
 hiervoor heb je 4 bouten en 4 moeren nodig.\
-Monteer ze op de buitenste gaatjes.\
+Monteer ze op de buitenste gaatjes.
 
 ### stap 7
 monteer de plastic evenwichtswieltjes vooraan op de basisplaat.\
-Deze kan je er gewoon indrukken\
+Deze kan je er gewoon indrukken
 
 ### stap 8
 Nu is de wagen gebalanceerd. Monteer de lijn sensor samen met 2 bouten en moeren vooraan op de linefollower.\
-De gaan in de binnenste gaatjes van de basisplaat.\
+De gaan in de binnenste gaatjes van de basisplaat.
 
 ### stap 9 
 draai de goudkleurige staafjes in de basisplaat en bevestig deze met 4 moeren.
@@ -49,7 +49,7 @@ draai de goudkleurige staafjes in de basisplaat en bevestig deze met 4 moeren.
 strip de draden van de batterijhouder ongeveer een halve centimeter af.\
 Bevestig de batterijhouder in het midden van de basisplaat met de draden naar achter gericht. (van de wagen)\
 Dit met 2 bouten, 2 moeren en 2 rondellen.\
-LET OP: steek de batterijen nog niet in de houder!\
+LET OP: steek de batterijen nog niet in de houder!
 
 ### stap 11
 Deze stap is eerder belangrijk.\
@@ -57,7 +57,7 @@ Voordat we de robot board op de staafjes bevestigen, zorgen we eerst dat de jump
 Ook de draden van de batterij moeten juist liggen.\
 Zo zorgen we ervoor dat de draden mooi uitkomen op de robot board.\
 Ga dus na waar draden in de board gaan. Dit zou normaal, wanneer de lijnsensor rechts is en de wielen links, bovenaan op het bord moeten zijn.\
-Je zou de letters op het bord ook moeten kunnen lezen.\
+Je zou de letters op het bord ook moeten kunnen lezen.
 
 ### stap 12
 bevestig nu de robot board op de staafjes met 4 bouten.
@@ -68,7 +68,7 @@ steek de draden van de linkse motor in de klemmen waar staat 'sol motor' (linkse
 steek de draden van de rechtse motor in de klemmen waar staat 'sag motor' (rechtse motor)\
 +/- maakt niet uit, dit beïnvloed alleen de draairichting van de motor en deze kunnen we nog omdraaien indien gewenst.\
 conencteer de + van de batterijhouder (rood) met de + op het robot board, doe hetzelfde voor -.\
-alle draden zouden nu geconnecteerd moeten zijn.\
+alle draden zouden nu geconnecteerd moeten zijn.
 
 ### stap 14
 connecteer 6 draden met de sensor (female), deze schuiven er gewoon over.\
@@ -80,36 +80,36 @@ Stop de Vin (+) in een + spot op het board. Het maakt niet uit welke.\
 Stop de GND (-) in een - spot op het board. Het maakt niet uit welke.\
 Kijk op de sensor waar de 1, 2, 3, 4 staat en steek deze in A0, A1, A2, A2. (A3 en A4 wanneer je 6 sensoren gebruikt deze zitten vooraan op het bord)\
 *D8 en D12 zijn geen analoge ingangen voor de mensen die meerdere sensoren gebruiken!\
-\
+
 configuratie:\
 \
 1 --> A0\
 2 --> A1\
 3 --> A2\
-4 --> A3\
+4 --> A3
 
 ### stap 15
 plaats de L293 motordriver op de robot board\
-LET OP WAAR DE INKEPING ZIT, dit zou overeen moeten komen met die van de L293 houder\
+LET OP WAAR DE INKEPING ZIT, dit zou overeen moeten komen met die van de L293 houder
 
 ### stap 16
 Plaats de arduino op de robot board.\
-LET OP: de USB poort moet naar de grote switch gericht zitten anders gaat je linefollower NIET werken.\
+LET OP: de USB poort moet naar de grote switch gericht zitten anders gaat je linefollower NIET werken.
 
 ### stap 17
 proficiat je fysieke linefollower is gemaakt.\
-Upload de arduino code met je laptop en bijgeleverde usb kabel naar de Arduino Nano\
+Upload de arduino code met je laptop en bijgeleverde usb kabel naar de Arduino Nano
 
 ### stap 18
 plaats de batterijen in de houder nadat je de linefollower losmaakt van de computer\
-(zorg dat ze opgeladen zijn XD)\
+(zorg dat ze opgeladen zijn XD)
 
 ### stap 19
 
 Zet de grote switch aan wanneer je de linefollower op een parcour zet.\
-Deze zal nu zijn omgeving kalibreren.\
+Deze zal nu zijn omgeving kalibreren.
 
 ### stap 20
 druk op de startknop (D7), na enkele aftelbiepjes zal je linefollower het parcour gaan volgen.\
 Om je linefollower te tunen, kan je de Kd, Kp en de waar foutcorrectie waarde (standaard op 1500 ingesteld) aanpassen.\
-VEEL PLEZIER!\
+VEEL PLEZIER!
