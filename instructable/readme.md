@@ -102,6 +102,7 @@ Upload de arduino code met je laptop en bijgeleverde usb kabel naar de Arduino N
 
 ### stap 18
 plaats de batterijen in de houder nadat je de linefollower losmaakt van de computer
+(zorg dat ze opgeladen zijn XD)
 
 ### stap 19
 
