@@ -14,7 +14,7 @@ zorg dat je voldoende werkgereedschap bij hebt:
 - striptang
 
 ### stap 3
-soldeer de bijgeleverde pinnen aan de lijnsensor met je rolletje tin.
+soldeer de bijgeleverde pinnen aan de lijnsensor met je rolletje tin.\
 let op: wanneer verkeerd gesoldeerd, gebruik de soldeerzuigpomp.
 
 ### stap 4
