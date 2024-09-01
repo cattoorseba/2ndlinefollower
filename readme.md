@@ -19,6 +19,8 @@ batteries: Li-ion 19800mAh 8,4V max
 
 wireless communication: /
 
+Sensor - Motors: 15cm
+
 weight: 196g
 
 speed: ???
