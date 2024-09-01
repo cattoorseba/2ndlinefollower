@@ -79,7 +79,7 @@ Alle draden moeten sowieso achteraan het robot board komen. (tenzij je met een s
 Stop de Vin (+) in een + spot op het board. Het maakt niet uit welke.\
 Stop de GND (-) in een - spot op het board. Het maakt niet uit welke.\
 Kijk op de sensor waar de 1, 2, 3, 4 staat en steek deze in A0, A1, A2, A2. (A3 en A4 wanneer je 6 sensoren gebruikt deze zitten vooraan op het bord)\
-*D8 en D12 zijn geen analoge ingangen voor de mensen die meerdere sensoren gebruiken!\
+*D8 en D12 zijn geen analoge ingangen voor de mensen die meerdere sensoren gebruiken!
 
 configuratie:\
 \
