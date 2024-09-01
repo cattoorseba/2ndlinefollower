@@ -46,7 +46,8 @@ De gaan in de binnenste gaatjes van de basisplaat.
 draai de goudkleurige staafjes in de basisplaat en bevestig deze met 4 moeren.
 
 ### stap 10
-bevestig de batterijhouder in het midden van de basisplaat met de draden naar achter gericht. (van de wagen)
+strip de draden van de batterijhouder ongeveer een halve centimeter af.
+Bevestig de batterijhouder in het midden van de basisplaat met de draden naar achter gericht. (van de wagen)
 Dit met 2 bouten, 2 moeren en 2 rondellen.
 LET OP: steek de batterijen nog niet in de houder!
 
