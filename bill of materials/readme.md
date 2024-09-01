@@ -19,3 +19,4 @@
 |         14|    balanceerwieltjes (vooraan)|            stabilisatiewieltjes zodat de linefollower niet sleept vooraan|           recup|              0€|      2|         0€|
 |         15|    bouten|            bevestigingsmateriaal (3 verschillende groottes)|           recup|              0€|      12|         0€|
 |         16|    moeren|            bevestigingsmateriaal (3verschillende groottes)|           recup|              0€|      12|         0€|
+|         17|    rondellen|            dik rondel voor batterijhouder|           recup|              0€|      2|         0€|
